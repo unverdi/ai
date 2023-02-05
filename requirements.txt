@@ -1,0 +1,6 @@
+Flask==2.2.2
+farm-haystack==1.12.2
+protobuf==3.20.0
+gunicorn==20.1.0; python_version > '3.0'
+gunicorn==19.10.0; python_version < '3.0'
+grpcio==1.27.2
